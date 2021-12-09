@@ -20,7 +20,7 @@
         char5 = ""
 
 
-        Console.WriteLine("enter your string(please keep pressing enter for updated count): ")
+        Console.WriteLine("enter your string: ")
         str1 = Console.ReadLine
 
         For i = 1 To Len(str1)
